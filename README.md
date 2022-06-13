@@ -37,7 +37,7 @@ Repositório com aplicação de formação para treinamento de MongoDB do grupo 
 
 ### Criado com
 
-* [JavaScript][https://dotnet.microsoft.com/download/dotnet](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+* [JavaScript](https://dotnet.microsoft.com/download/dotnet](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 * [Mongo](https://www.mongodb.com/cloud/atlas/lp/try2?utm_content=rlsavisitor&utm_source=google&utm_campaign=gs_americas_rlsamultirest_search_core_brand_atlas_desktop_rlsa&utm_term=mongodb&utm_medium=cpc_paid_search&utm_ad=e&utm_ad_campaign_id=14412646314&adgroup=131761122172&gclid=Cj0KCQjwwJuVBhCAARIsAOPwGAQl30ks4SZOf_Qxw_TFpVNRlw14fMBT2K6h1gUlzEFXWSXdnm5AEJIaAijWEALw_wcB)
 
 
