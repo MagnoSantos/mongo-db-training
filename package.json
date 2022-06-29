@@ -4,7 +4,7 @@
   "description": "Contacts agenda program with CLI",
   "main": "index.js",
   "scripts": {
-    "start": "node practice2.js",
+    "start": "node practice3.js",
     "practice1" : "node practice1.js"
   },
   "keywords": [

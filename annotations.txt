@@ -1,0 +1,8 @@
+Projeções com colunas
+- Find {} key 1: é de inclusão e 0 é de exclusão. Incluirá este valor e retirar os outros {title: 1}
+Projeções com limit and skip. Limit normalmente refere-se ao tamanho máximo dos valores que queremos retornar a base
+e o skip é o apontador onde vamos retornar os limites (0, 10, 20 a partir do elemento).
+Sorting: ordenação nela temos um subconjunto, conjunto de chaves e valores -1 e 1 (titilo, ratings, etc). 
+- Se tivermos o valor 1 ascendente 
+- Se tivermos o valor -1 descendente. 
+
